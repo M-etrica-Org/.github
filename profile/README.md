@@ -9,7 +9,7 @@
 
 <h3 align="left">Conecta con Nosotros:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexanyernas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanyernas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/m-etrica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanyernas" height="30" width="40" /></a>
 <a href="https://instagram.com/somos_metrica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somos_metrica" height="30" width="40" /></a>
 </p>
 
